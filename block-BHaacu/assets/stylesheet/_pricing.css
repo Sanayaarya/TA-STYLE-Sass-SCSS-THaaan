@@ -1,0 +1,91 @@
+.pricing-page .hero {
+  background-color: #dc4345;
+  color: #ffffff;
+}
+
+.pricing-page .hero p {
+  text-align: center;
+  font-size: 1rem;
+}
+
+.pricing-page .hero h2 {
+  font-size: 3rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+.pricing-page .pricing {
+  background-color: #f2f2f2;
+}
+
+.pricing-page .pricing p {
+  text-align: center;
+  font-size: 1rem;
+  color: #6e6e6e;
+  margin-bottom: 3rem;
+}
+
+.pricing-page .program {
+  background-color: #ffffff;
+  border: 1px solid #c8c8c8;
+  padding: 2rem;
+  text-align: center;
+}
+
+.pricing-page .program h3 {
+  font-weight: 800;
+  font-size: 2.5rem;
+}
+
+.pricing-page .program p {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.pricing-page .program ul {
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+}
+
+.pricing-page .program li {
+  color: #363636;
+  font-size: 1rem;
+}
+
+.pricing-page .program a:hover {
+  color: #fff;
+  border-color: #fff;
+  background-color: #dc4345;
+}
+
+.pricing-page .faqs h3 {
+  font-weight: 800;
+  text-align: center;
+}
+
+.pricing-page .faqs p {
+  color: #666565;
+  text-align: center;
+  font-size: 1rem;
+  margin-bottom: 3.5rem;
+}
+
+.pricing-page .faq {
+  padding: 1rem;
+  border: 1px solid #a1a0a0;
+  border-radius: .15rem;
+  margin-bottom: 1.5rem;
+}
+
+.pricing-page .faq h6 {
+  font-size: .85rem;
+  font-weight: 500;
+  margin-bottom: .6rem;
+}
+
+.pricing-page .faq p {
+  text-align: start;
+  font-size: .8rem;
+  margin: .2rem auto;
+}
+/*# sourceMappingURL=-pricing.css.map */
