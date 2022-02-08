@@ -1,0 +1,49 @@
+footer {
+  background-color: #343a40;
+  color: #f2f2f2;
+  padding: 2rem 0;
+}
+
+footer h4 {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+footer a {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.85rem;
+}
+
+footer a:hover {
+  color: #ffffff;
+}
+
+footer address {
+  font-family: "Archivo", sans-serif;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.85rem;
+}
+
+footer address:hover {
+  color: #ffffff;
+}
+
+footer .footer-copyright {
+  padding: 1.5rem 0;
+  text-align: center;
+}
+
+footer .footer-copyright p {
+  text-align: center;
+  font-size: 0.95rem;
+}
+
+footer .footer-copyright span {
+  font-weight: 700;
+}
+
+footer .footer-copyright small {
+  font-size: 0.75rem;
+}
+/*# sourceMappingURL=-footer.css.map */

@@ -1,0 +1,72 @@
+.error-page .hero {
+  background-color: #dc4345;
+  color: #ffffff;
+}
+
+.error-page .hero p {
+  text-align: center;
+  font-size: 1rem;
+}
+
+.error-page .hero h2 {
+  font-size: 3rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+.error-page .contacts {
+  background-color: #f2f2f2;
+}
+
+.error-page .contacts h3 {
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.error-page .contacts p {
+  text-align: center;
+  color: #747474;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.error-page .contacts span {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  background-color: #c3c3c3;
+  color: #dc4345;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 1rem auto;
+}
+
+.error-page .contacts h5 {
+  font-weight: 600;
+  font-size: 1.2rem;
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.error-page .contacts a,
+.error-page .contacts address {
+  display: block;
+  color: #656565;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.error-page .contacts a:hover,
+.error-page .contacts address:hover {
+  cursor: pointer;
+  color: #dc4345;
+}
+/*# sourceMappingURL=-error.css.map */

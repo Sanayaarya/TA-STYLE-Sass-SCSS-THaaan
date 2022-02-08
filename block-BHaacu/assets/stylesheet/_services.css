@@ -1,0 +1,111 @@
+.service-page .hero {
+  background-color: #dc4345;
+  color: #ffffff;
+}
+
+.service-page .hero p {
+  text-align: center;
+  font-size: 1rem;
+}
+
+.service-page .hero h2 {
+  font-size: 3rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+.service-page .services span {
+  color: #dc4345;
+}
+
+.service-page .services h3 {
+  font-weight: 700;
+}
+
+.service-page .services p {
+  color: #747474;
+  padding-top: 1rem;
+}
+
+.service-page .products {
+  background-color: #f2f2f2;
+}
+
+.service-page .products h4 {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.service-page .products p {
+  color: #747474;
+  text-align: center;
+  font-size: 1rem;
+  margin-bottom: 3rem;
+}
+
+.service-page .products h5 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 1rem auto;
+}
+
+.service-page .products h5 + p {
+  text-align: start;
+}
+
+.service-page .products .image-cont {
+  width: 40%;
+  margin-left: 0;
+}
+
+.service-page .products .base {
+  border-bottom: 2px solid #747474;
+  margin-bottom: 3rem;
+}
+
+.service-page .deals {
+  background-color: #dc4345;
+  color: #ffffff;
+}
+
+.service-page .deals p {
+  font-size: 1rem;
+}
+
+.service-page .deals span {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.service-page .awarded h3 {
+  font-weight: 700;
+  text-align: center;
+  margin: .5rem auto;
+}
+
+.service-page .awarded p {
+  text-align: center;
+  color: #747474;
+  font-size: 1rem;
+}
+
+.service-page article {
+  margin-top: 3rem;
+}
+
+.service-page .image-box {
+  width: 20%;
+  margin: 1rem auto;
+}
+
+@media all and (max-width: 768px) {
+  .service-page .deals a {
+    margin-top: 2rem;
+  }
+  .service-page .products .base2 {
+    border-bottom: 2px solid #747474;
+    margin-bottom: 3rem;
+  }
+}
+/*# sourceMappingURL=-services.css.map */
